@@ -11,7 +11,7 @@ body {
     height: 450px;
     left: 400px;
     position: relative;
-    top: -550px;
+    top: -520px;
     bottom: 500px;
     width: 450px;
 }
@@ -20,19 +20,28 @@ body {
     height: 40px;
     left: 400px;
     position: relative;
-    top: -1050px;
-    width: 250px;
+    top: -1053px;
+    width: 447px;
     font-family: fantasy;
-    font-size: 24px;
+    font-size: 28px;
+    border-style: inset;
+    border-color: grey;
+    border-top-width: 10px;
+    background-color: rgba(128, 128, 0, 0.424);
+    text-align: center;
 }
 #sets-reps {
-    height: 10px;
-    left: 880px;
+    left: 900px;
     position:relative;
-    top: -1050px;
-    width: 250px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
+    top: -900px;
+    width: 400px;
+    font-family: fantasy;
+    font-size: 32px;
+    border-style: inset;
+    border-color: grey;
+    border-top-width: 10px;
+    background-color: rgba(128, 128, 0, 0.424);
+    text-align: center;
 }
 
 #exercise-library {
@@ -47,5 +56,5 @@ body {
     border-style: inset;
     border-color: grey;
     border-top-width: 10px;
-    background-color: rgba(128, 128, 0, 0.424)
+    background-color: rgba(128, 128, 0, 0.424);
 }
