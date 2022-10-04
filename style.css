@@ -58,3 +58,10 @@ body {
     border-top-width: 10px;
     background-color: rgba(128, 128, 0, 0.424);
 }
+
+#date-form {
+    position: relative;
+    left: 400px;
+    bottom: 650px;
+
+}

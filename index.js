@@ -38,6 +38,14 @@ const renderExercise = (exercise) => {
     chosenWorkout.onmouseleave = () => {
         chosenWorkout.style.backgroundColor = 'rgba(128, 128, 0, 0.424)'
     }
-
 }
 
+const dateForm = document.getElementById('date-form')
+const userInput = document.getElementById('date')
+
+dateForm.onsubmit = (e) => submitDate(e)
+
+const submitDate = (e) => {
+    e.preventDefault()
+    console.log(userInput.value)
+}
