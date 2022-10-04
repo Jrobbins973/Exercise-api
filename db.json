@@ -2,10 +2,52 @@
     "exercises": [
         {
         "id": 0,
-        "name": "Squat",
-        "Muscle-Group": "Legs",
-        "Image": "test"
+        "name": "Overhead Press",
+        "muscle_group": "Shoulders",
+        "image": "https://thumbs.gfycat.com/FluffyCarefulBaboon-size_restricted.gif",
+        "sets_reps": "3 Sets: 8-12 reps"
+        },
+        {
+        "id": 1,
+        "name": "Lunges",
+        "muscle_group": "Legs",
+        "image": "https://177d01fbswx3jjl1t20gdr8j-wpengine.netdna-ssl.com/wp-content/uploads/2019/05/walking-lunges-optimized.gif",
+        "sets_reps": "3 Sets: 10 reps each leg"
+        },
+        {
+        "id": 2,
+        "name": "Push-Ups",
+        "muscle_group": "Chest",
+        "image": "https://thumbs.gfycat.com/GlossySkinnyDuckbillcat-max-1mb.gif",
+        "sets_reps": "3 Sets: AMRAP (as many reps as possible)"
+        },
+        {
+        "id": 3,
+        "name": "Bicep-Curls",
+        "muscle_group": "Biceps",
+        "image": "https://i.gifer.com/7hh1.gif",
+        "sets_reps": "3 Sets: 8-12 reps each arm"
+        },
+        {
+        "id": 4,
+        "name": "Tricep Press-Down",
+        "muscle_group": "Triceps",
+        "image": "https://i.pinimg.com/originals/d0/e3/e3/d0e3e321ca8963db035dbb2ab098ce49.gif",
+        "sets_reps": "3 Sets: 10-15 Reps"
+        },
+        {
+        "id": 5,
+        "name": "Dead-Bug",
+        "muscle_group": "Core",
+        "image": "https://www.verywellfit.com/thmb/drIU5OvsLPjCBOPfZW_4ZbiUtF4=/3000x2000/filters:fill(auto,1)/105-Dead-Bug-ExerciseGIF-407d0bbb6d8742be855b219e74c18bd0.gif",
+        "sets_reps": "5 sets: 10 reps each leg"
+        },
+        {
+        "id": 6,
+        "name": "Band Rows",
+        "muscle_group": "Back",
+        "image": "https://d2culxnxbccemt.cloudfront.net/bowl/content/uploads/2020/03/03123205/row-3.gif",
+        "sets_reps": "3 Sets: 10-15 reps"
         }
-
     ]
 }

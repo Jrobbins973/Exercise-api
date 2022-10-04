@@ -1,0 +1,51 @@
+body {
+    background-color: antiquewhite;
+}
+
+#workout-details {
+    position: relative;
+}
+
+#workout-img
+{
+    height: 450px;
+    left: 400px;
+    position: relative;
+    top: -550px;
+    bottom: 500px;
+    width: 450px;
+}
+
+#name-of-exercise{
+    height: 40px;
+    left: 400px;
+    position: relative;
+    top: -1050px;
+    width: 250px;
+    font-family: fantasy;
+    font-size: 24px;
+}
+#sets-reps {
+    height: 10px;
+    left: 880px;
+    position:relative;
+    top: -1050px;
+    width: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+#exercise-library {
+    top: 60px;
+    position:relative;
+    font-family: fantasy;
+    font-size: 32px;
+    width: 250px;
+}
+
+#individual-exercise{
+    border-style: inset;
+    border-color: grey;
+    border-top-width: 10px;
+    background-color: rgba(128, 128, 0, 0.424)
+}
