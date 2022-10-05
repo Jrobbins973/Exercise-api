@@ -41,13 +41,25 @@ const renderExercise = (exercise) => {
     }
 
 
-    chosenWorkout.ondblclick = (exercise) =>  addToSchedule(exercise)
+chosenWorkout.ondblclick = (exercise) =>  addToSchedule(exercise)
 
 const addToSchedule = () => {
     const listItem = document.createElement('li')
     todaysWorkoutList.appendChild(listItem)
     listItem.textContent = exercise.name
+
+    listItem.onclick = () => {
+        listItem.remove()
+    }
+    listItem.onmouseover = () => {
+        listItem.style.fontWeight = "bold"
+    }
+    listItem.onmouseleave = () => {
+        listItem.style.fontWeight = "normal"
+    }
 }
+
+
 
 }
 

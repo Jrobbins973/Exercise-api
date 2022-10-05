@@ -11,7 +11,7 @@ body {
     height: 450px;
     left: 400px;
     position: relative;
-    top: -520px;
+    top: -420px;
     bottom: 500px;
     width: 450px;
 }
@@ -20,9 +20,9 @@ body {
     height: 40px;
     left: 400px;
     position: relative;
-    top: -1053px;
+    top: -953px;
     width: 447px;
-    font-family: fantasy;
+    font-family: copperplate;
     font-size: 28px;
     border-style: inset;
     border-color: grey;
@@ -33,9 +33,9 @@ body {
 #sets-reps {
     left: 900px;
     position:relative;
-    top: -1133px;
+    top: -1032px;
     width: 400px;
-    font-family: fantasy;
+    font-family: copperplate;
     font-size: 28px;
     border-style: inset;
     border-color: grey;
@@ -47,7 +47,7 @@ body {
 #exercise-library {
     top: 60px;
     position:relative;
-    font-family: fantasy;
+    font-family: copperplate;
     font-size: 32px;
     width: 250px;
 }
@@ -59,29 +59,26 @@ body {
     background-color: rgba(128, 128, 0, 0.424);
 }
 
-/* #date-form {
-    position: relative;
-    left: 400px;
-    bottom: 650px;
-
-}
-
-#last-workout {
-    position: relative;
-    left: 400px;
-    bottom: 750px;
-} */
-
 #todays-workout {
     left: 900px;
     position:relative;
-    top: -1133px;
+    top: -1000px;
     width: 365px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 28px;
+    font-family: copperplate;
+    font-size: 32px;
     border-style: inset;
     border-color: grey;
     border-top-width: 10px;
     background-color: rgba(128, 128, 0, 0.424);
     text-align: center;
+}
+
+li {
+    font-size: 24px;
+    font-family: copperplate;
+}
+
+h1 {
+    font-family: copperplate;
+    font-size: 42px;
 }
