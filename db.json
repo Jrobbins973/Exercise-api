@@ -30,14 +30,14 @@
         },
         {
         "id": 4,
-        "name": "Tricep Press-Down",
+        "name": "Overhead Tricep Extension",
         "muscle_group": "Triceps",
         "image": "https://i.pinimg.com/originals/d0/e3/e3/d0e3e321ca8963db035dbb2ab098ce49.gif",
         "sets_reps": "3 Sets: 10-15 Reps"
         },
         {
         "id": 5,
-        "name": "Dead-Bug",
+        "name": "Dead-Bugs",
         "muscle_group": "Core",
         "image": "https://www.verywellfit.com/thmb/drIU5OvsLPjCBOPfZW_4ZbiUtF4=/3000x2000/filters:fill(auto,1)/105-Dead-Bug-ExerciseGIF-407d0bbb6d8742be855b219e74c18bd0.gif",
         "sets_reps": "5 sets: 10 reps each leg"
